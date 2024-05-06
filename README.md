@@ -1,7 +1,7 @@
 # DLAI_PlantSeedsClassification
 
 ## Problem Statement
-Link to dataset: https://drive.google.com/file/d/1SbJ0pKdxPg7hND0LgRgqjH4Pnl1k97qZ/view?usp=sharing
+Link to images dataset: https://drive.google.com/file/d/1SbJ0pKdxPg7hND0LgRgqjH4Pnl1k97qZ/view?usp=sharing
 
 ### Background and Context
 
